@@ -105,6 +105,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 - [Dessign](https://dessign.net/) - AI Tools Directory.
 - [Desifounder](https://desifounder.com/spotlight) - Discover AI Projects & Tools.
+- [Direct2App](https://www.direct2app.com/) - Find the best SaaS & AI for your business.
 
 ## E
 
